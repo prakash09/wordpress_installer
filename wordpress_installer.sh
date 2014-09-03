@@ -1,4 +1,4 @@
-#installing apache
+ #installing apache
 set -e
 
  sudo  apt-get update
